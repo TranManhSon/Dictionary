@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/mysql-connector-java/mysql-connector-java-8.0.27/mysql-connector-java-8.0.27.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/json-simple-1.1.1.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/freetts(java âm thanh)/freetts-1.2/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/freetts(java âm thanh)/freetts-1.2/lib" recursive="false" />
+  </library>
+</component>
